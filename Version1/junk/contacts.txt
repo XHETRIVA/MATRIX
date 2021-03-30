@@ -1,0 +1,16 @@
+Quick Access
+...
+...
+...
+1-All contacts
+2-Add a new contact //first name, last name, number, email, address, dob, notes, relation
+3-Delete a contact
+4-Edit a contact
+5-Add contacts to quick access(the contacts you add in this will appear first without having you to search for it)
+6-Dialpad(search a contact with name, number, address, email etc.)
+7-Select multiple contacts(to perform an operation on more than one contact)
+.
+.
+.
+.
+name|   number|     email|          address|    dob|                notes|          relation|

@@ -1,0 +1,36 @@
+int x;
+printf(Press 1-if you want to try operation %d again.\n 2- if want to try different operation \n 3- exit, d);
+scanf(x);
+if(x==1)
+{
+    if(d==0)
+    goto op0;
+
+    else if(d==1)
+    goto op1;
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    .
+    else if(d==20)
+    goto op20;
+}
+else if(x==2)
+.
+.
+.
+.
+.
+.
+.
+.
+//* d=operation number chosen at beginning*//
